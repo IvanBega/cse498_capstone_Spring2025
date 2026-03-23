@@ -1,0 +1,36 @@
+var classcse_1_1_error_manager =
+[
+    [ "ErrorLevel", "classcse_1_1_error_manager.html#a41a89ca19787491f68218c0661639846", [
+      [ "Info", "classcse_1_1_error_manager.html#a41a89ca19787491f68218c0661639846a4059b0251f66a18cb56f544728796875", null ],
+      [ "Warning", "classcse_1_1_error_manager.html#a41a89ca19787491f68218c0661639846a0eaadb4fcb48a0a0ed7bc9868be9fbaa", null ],
+      [ "Fatal", "classcse_1_1_error_manager.html#a41a89ca19787491f68218c0661639846a882384ec38ce8d9582b57e70861730e4", null ]
+    ] ],
+    [ "ErrorManager", "classcse_1_1_error_manager.html#a1b508cb74a1b5323d5f9c0ff041a3bce", null ],
+    [ "~ErrorManager", "classcse_1_1_error_manager.html#a8d778477e92c5ea9393922aee74e7b93", null ],
+    [ "enableColors", "classcse_1_1_error_manager.html#ab10a5b3db1d89c84b5dba38f2725ca3e", null ],
+    [ "enableTermination", "classcse_1_1_error_manager.html#ad7ad4efad76110befc5fa2ebe6097d11", null ],
+    [ "errorLevelToString", "classcse_1_1_error_manager.html#a4b8c8b8b2c5b2d881fab4adbbf98d0a8", null ],
+    [ "executeAndHandleError", "classcse_1_1_error_manager.html#ac358f5333c42f3973bfb1923d2546d9c", null ],
+    [ "formatConsoleOutput", "classcse_1_1_error_manager.html#a123a93fb2c343b049edae9ee6b52da1e", null ],
+    [ "logToFile", "classcse_1_1_error_manager.html#a18aed55b327e6da83e12853c40a59d7c", null ],
+    [ "printError", "classcse_1_1_error_manager.html#a41f9a038506bc46c84d7d4b7adacf835", null ],
+    [ "printInfo", "classcse_1_1_error_manager.html#afdaa75da502e593711d8ccd8c6a1fed9", null ],
+    [ "printMessage", "classcse_1_1_error_manager.html#a15201b7a2ab28e6475dd23c8b097b853", null ],
+    [ "printMessage", "classcse_1_1_error_manager.html#a8fabbfb29d41c20ac49c7c18f5c6e001", null ],
+    [ "printMessage", "classcse_1_1_error_manager.html#aaf890b4aa3c4780b314f30064717d129", null ],
+    [ "printMessage", "classcse_1_1_error_manager.html#ab87f98f62c325be824f3682b5d515f0a", null ],
+    [ "printWarning", "classcse_1_1_error_manager.html#ace149ba703d8d80e250f709e62dc58ac", null ],
+    [ "setAction", "classcse_1_1_error_manager.html#af7ed7915156970f6c62b8933a3c933a4", null ],
+    [ "COLOR_GREEN", "classcse_1_1_error_manager.html#ad12339b02d13608221acc65c518eb011", null ],
+    [ "COLOR_RED", "classcse_1_1_error_manager.html#a850bd52fcc8a47a10ed554651608b101", null ],
+    [ "COLOR_RESET", "classcse_1_1_error_manager.html#abace74bd19abcd633bda3eb74e7097ff", null ],
+    [ "COLOR_YELLOW", "classcse_1_1_error_manager.html#acb519ee91d39337991a159577211d328", null ],
+    [ "FATAL_STRING", "classcse_1_1_error_manager.html#a0aa03d9a377c3854e24f345f6d239456", null ],
+    [ "INFO_STRING", "classcse_1_1_error_manager.html#a434048ebd296b9acf845d29a41025baf", null ],
+    [ "mActions", "classcse_1_1_error_manager.html#adcb4e0ff2959c6d3cbaaaa43b6143673", null ],
+    [ "mColorsEnabled", "classcse_1_1_error_manager.html#a5fb01a8f3c36da03cbb3a727cd831111", null ],
+    [ "mLogFile", "classcse_1_1_error_manager.html#ab870f97284d1bcf0159160ba299aafa1", null ],
+    [ "mStringColorCodes", "classcse_1_1_error_manager.html#a13b814efc4abe0e0550b8e16556a309a", null ],
+    [ "mTerminationEnabled", "classcse_1_1_error_manager.html#af4364bcf0cfe186e77a847eefada4a7f", null ],
+    [ "WARNING_STRING", "classcse_1_1_error_manager.html#aa285ab884c91cc01347abcb086e4369b", null ]
+];
